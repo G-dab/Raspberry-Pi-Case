@@ -25,8 +25,8 @@
 最终完成的效果如下
 
 <center>
-    <img src='README/pic1.jpg' height=200 />
-    <img src='README/pic2.png' height=200 />
+    <img src='README/pic1.jpg' height=160 />
+    <img src='README/pic2.png' height=160 />
 </center>
 
 ## 2、系统烧录与SSH连接
